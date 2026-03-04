@@ -2,6 +2,7 @@
 
 int main()
 {
-	puts("start with this function to print string!");
+	puts("Hello World!");
+	printf("Goodbye, cruel world!");
 	return 0;
 }
